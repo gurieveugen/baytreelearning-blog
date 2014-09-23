@@ -1,0 +1,22 @@
+*** Hoarder Changelog ***
+
+19 October 2012 - Version 1.0.1
+
+	* functions.php
+		- Fixed drafts bug in "load more" query
+    * style.css
+    	- updated version number
+    	- styles for link format linking to single view
+    	- fixed background bug on header and footer not being wide enough
+    	  at certain browser sizes
+   	* content-quote.php
+   		- link to single view on index/archive pages
+	* template-home-blog.php
+		- removed isotope container class to fix pagination bug
+    * jquery.custom.js
+    	- Fixed jplayer width bug at mobile size
+	* framework udated to v1.0.2.3
+
+28 August 2012 - Version 1.0
+
+	First Release

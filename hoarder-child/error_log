@@ -1,0 +1,4 @@
+[24-Jul-2014 12:52:20 America/Denver] PHP Fatal error:  Call to undefined function language_attributes() in /home1/rossmor1/public_html/baytreelearning.com/blog/wp-content/themes/hoarder-child/header.php on line 7
+[10-Sep-2014 13:24:58 America/Denver] PHP Fatal error:  Call to undefined function add_filter() in /home1/rossmor1/public_html/baytreelearning.com/blog/wp-content/themes/hoarder-child/functions.php on line 13
+[10-Sep-2014 13:25:16 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home1/rossmor1/public_html/baytreelearning.com/blog/wp-content/themes/hoarder-child/functions.php on line 16
+[10-Sep-2014 13:25:44 America/Denver] PHP Fatal error:  Call to undefined function add_filter() in /home1/rossmor1/public_html/baytreelearning.com/blog/wp-content/themes/hoarder-child/functions.php on line 13
