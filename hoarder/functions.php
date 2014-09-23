@@ -187,6 +187,8 @@ if ( !function_exists( 'zilla_enqueue_scripts' ) ) {
 		wp_enqueue_script('isotope');
 		wp_enqueue_script('imagesLoaded');
 		wp_enqueue_script('zilla-custom');
+
+        wp_enqueue_script('main',  get_template_directory_uri().'/js/main.js', array('jquery'));
 		
 		if( is_singular() ) wp_enqueue_script( 'comment-reply' ); // loads the javascript required for threaded comments 
 		if( is_page_template('template-contact.php') ) wp_enqueue_script('validation');
